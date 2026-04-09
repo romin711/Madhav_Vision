@@ -48,10 +48,10 @@ The architecture mirrors the **Pancha Mahabhuta** — the five great elements of
 ║      Landmark smoothing keeps overlays stable across movement.   ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  💧  JAL    — Water / Flow                                       ║
-║      app.py                                                       ║
+║      app.py                                                      ║
 ║      The real-time loop — capture → track → render → blend.      ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  🌍  PRITHVI — Earth / Structure                                  ║
+║  🌍  PRITHVI — Earth / Structure                                 ║
 ║      Modular codebase — hand, face, chakra, mukut separated.     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  🌌  AKASH  — Ether / Presence                                   ║
@@ -184,6 +184,7 @@ python app.py
 > 👁️ Look **directly at the camera** for the Mukut to align to your forehead.
 
 ---
+For fun and learning purpose only.
 
 <div align="center">
 
