@@ -190,6 +190,4 @@ For fun and learning purpose only.
 
 *Built with devotion. Powered by code.*
 
-**🙏 Jai Shree Krishna 🙏**
-
 </div>
