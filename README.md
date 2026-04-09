@@ -2,9 +2,6 @@
 
 # 🪷 Madhav Vision — Shree Krishna AR
 
-> *"Yada yada hi dharmasya glanir bhavati bharata..."*
-> — Bhagavad Gita 4.7
-
 **A real-time, devotional Augmented Reality experience built with OpenCV & MediaPipe.**
 Channel the divine — wear the **Sudarshan Chakra** on your fingertip and the **Peacock Mukut** upon your brow.
 
